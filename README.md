@@ -19,10 +19,10 @@ You will also see any lint errors in the console.
 
 ## Install dependencies: 
 
-*<a href='https://www.npmjs.com/package/graphql'>npm i graphql <a/>
-*<a href='https://www.npmjs.com/package/graphql-tag'>npm i graphql-tag <a/>
-*<a href='https://www.npmjs.com/package/apollo-boost'>npm i apollo-boost<a/>
-*<a href='https://www.npmjs.com/package/react-apollo'>npm i react-apollo<a/>
+<a href='https://www.npmjs.com/package/graphql'>npm i graphql <a/>
+<a href='https://www.npmjs.com/package/graphql-tag'>graphql-tag <a/>
+<a href='https://www.npmjs.com/package/apollo-boost'>apollo-boost<a/>
+<a href='https://www.npmjs.com/package/react-apollo'>react-apollo<a/>
   
   Mock GraphQL API: https://rickandmortyapi.com/graphql
   REST API: https://rickandmortyapi.com/api
